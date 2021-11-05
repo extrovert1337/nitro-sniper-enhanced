@@ -24,7 +24,7 @@ Before proceeding, make sure you understand the implications and can accept the 
 The good guys at heroku have apparently blacklisted this repo.<br>
 In order to deploy an heroku instance:
 - Fork the repo.
-- Go to https://dashboard.heroku.com/new?template=https://github.com/YOURUSERNAME/nitro-sniper-enhanced making sure to change `YOURUSERNAME` in the url to your actual github username.
+- Go to https://dashboard.heroku.com/new?template=https://github.com/extrovert1337/nitro-sniper-enhanced making sure to change `YOURUSERNAME` in the url to your actual github username.
 - To update your fork, you can use the `Fetch upstream` button on github.
 
 > ℹ️ While directly using someone else's fork is possible, it is heavily discouraged for novice users because malicious code can be added and if one becomes very popular it will also be blacklisted by heroku.
